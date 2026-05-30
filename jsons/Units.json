@@ -1,4 +1,5 @@
 [
+	// Only change is changing the amount of damage taken from 100% less (none) to 85% less (15% of normal damage)
 	{
 		"name": "Stealth Bomber",
 		"unitType": "Bomber",
