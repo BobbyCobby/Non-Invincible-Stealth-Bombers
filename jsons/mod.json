@@ -1,0 +1,7 @@
+{
+  "name": "Non-Invincible Stealth Bombers",
+  "version": "1.0.0",
+  "description": "Removes the Stealth Bomber monopoly in the endgame, giving them 15% of normal interception damage instead of 0%",
+  "authors": ["BobbyCobby"],
+  "dependencies": ["Civ V - Gods & Kings"],
+}
